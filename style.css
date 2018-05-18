@@ -1,0 +1,26 @@
+p {
+	word-break: normal;
+}
+body{
+	background-color: #65c24e;
+}
+
+h1 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.boldClass{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.carousel-inner img {
+	width: 100%;
+	height: 100%;
+}
+
+.nav-item {
+	padding-left: 15px;
+	padding-right: 15px;
+}
